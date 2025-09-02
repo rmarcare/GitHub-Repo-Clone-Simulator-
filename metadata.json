@@ -1,0 +1,5 @@
+{
+  "name": "GitHub Repo Clone Simulator",
+  "description": "An application that simulates cloning a GitHub repository and uses AI to generate a detailed analysis of its potential frontend and backend structure, technologies, and purpose.",
+  "requestFramePermissions": []
+}
